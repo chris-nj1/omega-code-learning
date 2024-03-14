@@ -7,7 +7,7 @@ name:Njoku chris Super Linter
 on:
   push:
   pull_request:
-  
+
 jobs:
  run-linters:
     runs-on: ubuntu-latest
